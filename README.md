@@ -1,2 +1,4 @@
 # hello.c
-hello with out any library
+"Hello, World!"
+in c 
+Not using Libraries
